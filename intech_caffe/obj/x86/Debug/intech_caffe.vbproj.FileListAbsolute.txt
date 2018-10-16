@@ -1,0 +1,74 @@
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\bin\Debug\intech_caffe.exe
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\bin\Debug\intech_caffe.pdb
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\bin\Debug\intech_caffe.xml
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditProduct.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditUser.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeGjendje.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeMagazin.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmProduktetGrupor.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterProduct.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterUser.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmShitjet.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Login.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Main.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Resources.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.exe
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.xml
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.pdb
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportetDitore.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportet.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmGjendjaEProdukteve.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmPerNe.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.exe
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.xml
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.pdb
+D:\work\intech_caffe\intech_caffe\bin\Debug\intech_caffe.exe
+D:\work\intech_caffe\intech_caffe\bin\Debug\intech_caffe.pdb
+D:\work\intech_caffe\intech_caffe\bin\Debug\intech_caffe.xml
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditProduct.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditUser.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmGjendjaEProdukteve.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeGjendje.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeMagazin.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmPerNe.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmProduktetGrupor.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportet.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportetDitore.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterProduct.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterUser.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmShitjet.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Login.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Main.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Resources.resources
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\intech_caffe\intech_caffe\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\My PC\Programim\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.exe
+G:\My PC\Programim\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.xml
+G:\My PC\Programim\work\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.pdb
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.exe
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.xml
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.pdb
+C:\Desktop\Capstone\intech_caffe\intech_caffe\bin\Debug\intech_caffe.exe
+C:\Desktop\Capstone\intech_caffe\intech_caffe\bin\Debug\intech_caffe.pdb
+C:\Desktop\Capstone\intech_caffe\intech_caffe\bin\Debug\intech_caffe.xml
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.vbprojResolveAssemblyReference.cache
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditProduct.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmEditUser.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmGjendjaEProdukteve.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeGjendje.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmHyrjetNeMagazin.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmPerNe.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmProduktetGrupor.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportet.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRaportetDitore.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterProduct.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmRegisterUser.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.frmShitjet.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Login.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Main.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.Resources.resources
+C:\Desktop\Capstone\intech_caffe\intech_caffe\obj\x86\Debug\intech_caffe.vbproj.GenerateResource.Cache
